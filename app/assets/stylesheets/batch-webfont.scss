@@ -16,8 +16,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'Batch';
-  src: url('/assets/batch-icons-webfont.eot');
-  src: url('batch-icons-webfont.eot?#iefix') format('embedded-opentype'), url('batch-icons-webfont.woff') format('woff'), url('batch-icons-webfont.ttf') format('truetype'), url('batch-icons-webfont.svg#batchregular') format('svg');
+  src: font-url('batch-icons-webfont.eot');
+  src: font-url('batch-icons-webfont.eot?#iefix') format('embedded-opentype'), font-url('batch-icons-webfont.woff') format('woff'), font-url('batch-icons-webfont.ttf') format('truetype'), font-url('batch-icons-webfont.svg#batchregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -150,7 +150,7 @@
 .batch-marquee-upload:before {
   content: "\F023";
 }
-.batch-crate:before {
+.batch-box:before {
   content: "\F025";
 }
 .batch-grid:before {
@@ -888,7 +888,7 @@
 .batch-featherpen-alt:before {
   content: "\F13B"; 
 }
-.batch-feather-atl:before {
+.batch-feather-alt:before {
   content: "\F13C"; 
 }
 .batch-pencil-alt:before {
@@ -1002,7 +1002,7 @@
 .batch-checkbox-yes:before {
   content: "\F164"; 
 }
-.batch-checkbox-nos:before {
+.batch-checkbox-no:before {
   content: "\F165"; 
 }
 .batch-alarm:before {
@@ -1061,9 +1061,6 @@
 }
 .batch-watcher-add:before {
   content: "\F179"; 
-}
-.batch-watcher-delete:before {
-  content: "\F17A"; 
 }
 .batch-watcher-delete:before {
   content: "\F17A"; 
