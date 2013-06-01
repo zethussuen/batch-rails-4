@@ -15,3 +15,4 @@ To Do:
 - [ ] Add examples page with list of icons & class-names
 - [ ] Refactor in .erb extension for stylesheet (when i figure out how to use sprockets lul)
 - [ ] Bootstrap integration (???)
+- [ ] IE7 support
