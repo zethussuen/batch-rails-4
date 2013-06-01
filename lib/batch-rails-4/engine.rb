@@ -1,6 +1,6 @@
 module Batch
   module Rails
-    module 4
+    module Four
       class Engine < ::Rails::Engine
       end
     end

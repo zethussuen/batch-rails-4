@@ -1,6 +1,6 @@
 module Batch
   module Rails
-    module 4
+    module Four
       VERSION = "0.1.0"
     end
   end

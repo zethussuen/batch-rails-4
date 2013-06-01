@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = Dir["test/**/*"]
   gem.name          = "batch-rails-4"
   gem.require_paths = ["lib"]
-  gem.version       = Batch::Rails::4::VERSION
+  gem.version       = Batch::Rails::Four::VERSION
 
   gem.add_dependency "railties", ">= 3.2", "< 5.0"
 
