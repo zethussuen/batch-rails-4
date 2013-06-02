@@ -9,4 +9,4 @@ For usage, please refer to the gh-page: http://zethussuen.github.io/batch-rails-
 Changelog
 =============
 0.2.1: removed duplicate classes, changed to use sass font-url() for production environments  
-0.2.1: updated font-typos, removed empty dir's
+0.2.0: updated font-typos, removed empty dir's
