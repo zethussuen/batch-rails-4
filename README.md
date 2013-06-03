@@ -1,4 +1,4 @@
-batch-rails-4
+batch-rails-4 [![Code Climate](https://codeclimate.com/github/zethussuen/batch-rails-4.png)](https://codeclimate.com/github/zethussuen/batch-rails-4)
 =============
 Batch (@AdamWhitcroft) Webfont Integration for Rails 4.x  
 
